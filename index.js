@@ -11,7 +11,6 @@ function submitData(fname, emailAddress) {
 const person={
     name:fname,
     email:emailAddress
-    // id: 659
 }
     const configureObject = {
       method: "POST",
