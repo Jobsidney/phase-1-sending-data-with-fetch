@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,213 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "job",
+      "email": "jobsidney@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "sid",
+      "email": "jobsidney@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 3
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 4
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 5
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 6
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 7
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 8
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 9
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 10
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 11
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 12
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 13
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 14
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 15
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 16
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 17
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 18
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 19
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 20
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 21
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 22
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 23
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 24
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 25
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 26
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 27
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 28
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 29
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 30
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 31
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 32
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 33
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 34
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 35
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 36
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.coom",
+      "id": 37
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 38
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 39
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 40
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
